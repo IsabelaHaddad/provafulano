@@ -5,7 +5,7 @@ text-align: center;
 }
 
 p {
-    color: rgb(98, 149, 162);
+    font-size: medium;
 }
 
 h1 {
@@ -13,5 +13,9 @@ h1 {
 }
 
 .unicornio {
-  font-size: 25%;  
+  color: rgb(45, 137, 137);
+}
+
+.img1 {
+  width: 60%;
 }
